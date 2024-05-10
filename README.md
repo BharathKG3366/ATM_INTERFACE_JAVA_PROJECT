@@ -32,3 +32,7 @@ This complex ATM project is built in Java and consists of five different classes
    - To check the account balance:
      - Simply print the total balance of the user.
 
+6. **Running the Program:**
+
+   -Compile the Java file (ATM_Project.java).
+    Run the compiled Java program
